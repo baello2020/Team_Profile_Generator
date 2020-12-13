@@ -32,7 +32,7 @@ Employee types in this application:
 
 ## Contributing
 
-Please feel free to submit code updates to review for acceptance.
+A work in progress. And the possibilities are endless. <br> Please feel free to submit any code updates for review and acceptance.
 * ['Team Profile Generator - Github Repo'](https://github.com/baello2020/Team_Profile_Generator)
 
 ## Project Demo Video
